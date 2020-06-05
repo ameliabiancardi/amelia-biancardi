@@ -1,12 +1,12 @@
 /* vars */
 :root {
   --background-color: #FFFFFF;
-  --link-color: #00FF00;
-  --alt-link-color: #000000;
+  --link-color: #000000;
+  --alt-link-color: #FFFFFF;
   --body-color: #FFFFFF;
-  --light-grey: #000000;
-  --lighter-grey: #000000;
-  --lightest-grey: #000000;
+  --light-grey: #FFFFFF;
+  --lighter-grey: #FFFFFF;
+  --lightest-grey: #FFFFFF;
 }
 
 html {
